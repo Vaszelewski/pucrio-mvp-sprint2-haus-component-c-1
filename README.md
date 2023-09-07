@@ -8,7 +8,6 @@ Componente C 1 (inclusão de items da coleção ao banco de dados) do projeto HA
 ## Como executar 
 
 Requisitos:
-- Realizar a instalação das libs python listadas no `requirements.txt`.
 - Certificar de que o [Docker](https://docs.docker.com/engine/install/) está instalado em sua máquina e em execução.
 - Se optar por utilizar uma interface Frontend, siga os passos deste repositório: HAUS-Front().
 
