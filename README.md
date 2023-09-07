@@ -1,7 +1,7 @@
 # HAUS - EVERTON VASZELEWSKI COMPONENTE C 1 + BANCO DE DADOS
 # MVP SPRINT 2 - Pós-Graduação em Engenharia de Software
 
-Backend do projeto HAUS: Um Sistema web de gerenciamento e catalogar coleções de objetos de Música
+Componente C 1 (inclusão de items da coleção ao banco de dados) do projeto HAUS: Um Sistema web de gerenciamento e catalogar coleções de objetos de Música
 
 
 ---
