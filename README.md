@@ -13,6 +13,8 @@ Requisitos:
 
 
 Etapas:
+
+
 1 - Clonar o repositório e descompactar da pasta .zip.
 
 2 - Ir ao diretório raiz, onde contém o Dockerfile, e executar como administrador o seguinte comando para construir a imagem Docker:
