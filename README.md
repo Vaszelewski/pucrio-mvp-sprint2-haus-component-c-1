@@ -9,8 +9,9 @@ Componente C 1 (inclusão de items da coleção ao banco de dados) do projeto HA
 
 Requisitos:
 - Certificar de que o [Docker](https://docs.docker.com/engine/install/) está instalado em sua máquina e em execução.
-- Se optar por utilizar uma interface Frontend, siga os passos deste repositório: HAUS-Front().
+- Se optar por utilizar uma interface Frontend, siga os passos deste repositório: (HAUS-Front)[https://github.com/Vaszelewski/pucrio-mvp-sprint2-haus-component-a-b/].
 
+![back c1](https://github.com/Vaszelewski/pucrio-mvp-sprint2-haus-component-c-1/assets/50892923/59c64eb0-35c4-4922-a608-f5b31f3ade67)
 
 Etapas:
 
